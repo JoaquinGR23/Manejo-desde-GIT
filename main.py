@@ -1,0 +1,1 @@
+print("Rendirse no es una opcion")
